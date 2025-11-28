@@ -1,0 +1,12 @@
+所有已经提交给社区的patch链接如下（不包含AW99706的patch group），
+已经合入mainline的patch：
+https://lkml.org/lkml/2025/8/14/293
+https://lkml.org/lkml/2025/8/20/56
+https://lkml.org/lkml/2025/8/25/513
+https://lkml.org/lkml/2025/10/16/61
+https://lkml.org/lkml/2025/10/20/1045
+
+以下patch提交给了社区但还未被回复：
+https://lkml.org/lkml/2025/11/14/385
+https://lkml.org/lkml/2025/11/17/151
+https://lkml.org/lkml/2025/11/27/418
